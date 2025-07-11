@@ -15,6 +15,12 @@ This is a living list of projects I want to build — to learn, practice, and ev
 ### General Projects (ie- I don't yet know what to build it with)
 
 - [ ] Tool to teach me to read musical notation better (with MIDI capability)
+- [ ] Tony stark style workshop tools- https://www.youtube.com/watch?v=Yrj8bTTsQ2I
+https://www.youtube.com/watch?v=PI6VA8ZNL-0
+- [ ] Talking dog mat for myself
+- [ ] Tool to help me parse relationships and ppl? fix core issues of history, data interpretation. 
+- [ ] Autism helment
+
 
 ### 🔨 JavaScript Projects
 
